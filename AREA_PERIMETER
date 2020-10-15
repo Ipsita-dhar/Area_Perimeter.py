@@ -1,0 +1,5 @@
+r=float(input('Radius = '))
+a=3.14*r*r
+print("Area = %0.2f" %a)
+p=2*3.13*r
+print("Perimeter = %0.2f" %p)
